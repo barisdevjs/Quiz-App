@@ -1,6 +1,6 @@
 # This is a Quiz App by pure Javascript
 ---
-[ LIVE  Demo](https://flamboyant-nobel-bdb6fc.netlify.app/)
+[ LIVE  Demo](https://practical-poincare-351188.netlify.app/)
 
 ## Below you will see the page of a game
 
